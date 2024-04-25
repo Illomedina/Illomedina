@@ -6,6 +6,8 @@
 
 Soy un apasionado de la programación con experiencia en varios lenguajes y tecnologías. Me especializo en el desarrollo web, tengo preferencia por el backend, pero también me adapto al frontend, ya que tengo experiencia en proyectos tanto frontend como backend.
 
+- <a href="https://www.linkedin.com/in/jose-ahmed-medina-ben-haddouch-4a88022b3/" target="_blank">LinkedIn</a>
+
 ## Experiencia
 
 Actualmente soy un programador junior en DISI, donde estoy desarrollando funcionalidades y vistas en aplicaciones de la empresa.
@@ -38,8 +40,6 @@ Actualmente soy un programador junior en DISI, donde estoy desarrollando funcion
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
-
-- <a href="https://www.linkedin.com/in/jose-ahmed-medina-ben-haddouch-4a88022b3/" target="_blank">LinkedIn</a>
 
 <!-- - [Twitter](https://twitter.com/tu-usuario) -->
 <!-- - [Sitio web](https://www.tusitio.com) -->
