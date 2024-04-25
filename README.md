@@ -33,6 +33,17 @@ Actualmente soy un programador junior en DISI, donde estoy desarrollando funcion
 
 - **Proyecto CustomAIze:** Actualmente estoy en formación y estoy desarrollando junto a mis compañeros un proyecto que integra varios frameworks y librerias de diferentes lenguajes, el proyecto trata de un e-commerce en el cual puedes generar imágenes con IA (API DALL·E) y aplicarlas en productos como tazas, camisetas, toallas, etc. (proporcionadas por la API de Picanova).
 
+
+## Estadísticas Adicionales
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Illomedina&layout=compact&theme=radical)
+
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Illomedina&repo=nombre-del-repositorio&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Illomedina&theme=dracula)
+
+![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Illomedina&layout=compact&theme=radical)
+
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
